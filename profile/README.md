@@ -1,4 +1,4 @@
-<img src="Portada_proyecto.png">
+![Portada.](https://github.com/Tec-IA-Proyectos-26/.github/blob/main/Portada_proyecto.png)
 
 # TS Ciencia de Datos e Inteligencia Artificial
 
